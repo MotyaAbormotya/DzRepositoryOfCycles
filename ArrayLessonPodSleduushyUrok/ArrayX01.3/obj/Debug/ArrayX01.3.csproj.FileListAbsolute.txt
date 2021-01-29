@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayX01.3\bin\Debug\ArrayX01.3.exe.config
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayX01.3\bin\Debug\ArrayX01.3.exe
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayX01.3\bin\Debug\ArrayX01.3.pdb
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayX01.3\obj\Debug\ArrayX01.3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayX01.3\obj\Debug\ArrayX01.3.exe
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayX01.3\obj\Debug\ArrayX01.3.pdb

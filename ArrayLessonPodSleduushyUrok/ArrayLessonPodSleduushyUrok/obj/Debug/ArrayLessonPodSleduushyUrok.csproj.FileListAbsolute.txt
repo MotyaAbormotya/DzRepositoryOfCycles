@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayLessonPodSleduushyUrok\bin\Debug\ArrayLessonPodSleduushyUrok.exe.config
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayLessonPodSleduushyUrok\bin\Debug\ArrayLessonPodSleduushyUrok.exe
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayLessonPodSleduushyUrok\bin\Debug\ArrayLessonPodSleduushyUrok.pdb
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayLessonPodSleduushyUrok\obj\Debug\ArrayLessonPodSleduushyUrok.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayLessonPodSleduushyUrok\obj\Debug\ArrayLessonPodSleduushyUrok.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayLessonPodSleduushyUrok\obj\Debug\ArrayLessonPodSleduushyUrok.exe
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayLessonPodSleduushyUrok\obj\Debug\ArrayLessonPodSleduushyUrok.pdb
