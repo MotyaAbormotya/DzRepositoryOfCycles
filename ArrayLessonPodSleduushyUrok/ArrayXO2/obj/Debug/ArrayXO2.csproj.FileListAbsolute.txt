@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayXO2\bin\Debug\ArrayXO2.exe.config
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayXO2\bin\Debug\ArrayXO2.exe
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayXO2\bin\Debug\ArrayXO2.pdb
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayXO2\obj\Debug\ArrayXO2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayXO2\obj\Debug\ArrayXO2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayXO2\obj\Debug\ArrayXO2.exe
+C:\Users\User\source\repos\ArrayLessonPodSleduushyUrok\ArrayXO2\obj\Debug\ArrayXO2.pdb
